@@ -9,10 +9,10 @@
     <meta name="keywords" content="">
     <meta name="generator" content="JBake">
 
-    <!-- Le styles -->
     <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/odd.css" rel="stylesheet">
-
-
+    <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/lama.css" rel="stylesheet">
+    <!-- <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/oddDiv.css" rel="stylesheet"> -->
+    <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/rinchen_terzod.css" rel="stylesheet">
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
     <script src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>javascript/general.js"></script>

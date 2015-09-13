@@ -33,3 +33,15 @@ status=published
     </td>
 </tr>
 </table>
+<script language="JavaScript">
+    var selectedTab;
+    function selectTab(tabId) {
+        var tab = document.getElementById(tabId);
+        if (selectedTab != null) {
+            selectedTab.className = '';
+        }
+        tab.className = 'selected';
+        selectedTab = tab;
+    }
+    selectTab('DrimedTab')
+</script>

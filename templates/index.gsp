@@ -133,5 +133,4 @@
         </td><!-- contentpane -->
     </tr>
 </table>
-</body>
 <%include "footer.gsp"%>
