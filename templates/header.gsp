@@ -4,24 +4,11 @@
     <meta charset="utf-8"/>
     <title><%if (content.title) {%>${content.title}<% } else { %>Orgyen Dorje Den<% }%></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="Tibetan Buddhist center in the Nyingma and Dudjom lineages founded at the request of Dudjom Rinpoche by Gyatrul Rinpoche">
     <meta name="author" content="">
     <meta name="keywords" content="">
     <meta name="generator" content="JBake">
 
-    <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/odd.css" rel="stylesheet">
-    <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/lama.css" rel="stylesheet">
-    <!-- <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/oddDiv.css" rel="stylesheet"> -->
-    <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/rinchen_terzod.css" rel="stylesheet">
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-    <script src="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>javascript/general.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">-->
-    <link rel="shortcut icon" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>favicon.ico">
+    <link href="css/odd.css" rel="stylesheet">
+    <script src="javascript/general.js"></script>
   </head>

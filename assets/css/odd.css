@@ -37,7 +37,7 @@ td.announcementCell A:hover {
 
 
 div#fundraising tr.donation td {
-	padding: 0 1em 0em 1em;
+	padding: 0 1em 0 1em;
 	text-align:left;
 	vertical-align:top; 
 }
@@ -305,7 +305,7 @@ table.imageTable {
 }
 
 table.imageTable td.titleCell img {
-	margin-bottom: 0px;
+	margin-bottom: 0;
 }
 
 table.imageTable td.barCell {
@@ -486,7 +486,7 @@ div#maps {
 }
 
 img#mapsTitle {
-	margin-bottom: 0px;
+	margin-bottom: 0;
 	display: block;
 }
 
@@ -588,4 +588,35 @@ p.schpeel {
 p.title {	
 	font-size: 1.2em;
 	font-weight: bold;
+}
+
+div.rinchen_terzod {
+	font-family: "Arial Narrow", Arial, sans-serif;
+	padding: 0 1em;
+}
+div.rinchen_terzod p {
+	margin-top: 1em;
+}
+div.rinchen_terzod p.title {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	margin: 1.5em 0;
+}
+div.rinchen_terzod p.section {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 0.8em;
+	margin: 1em 0;
+}
+div.rinchen_terzod span.intro {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 0.8em;
+}
+div.rinchen_terzod span.emphasis {
+	font-family: Arial, sans-serif;
+	font-size: 0.8em;
+	font-weight: bold;
+	font-style: italic;
 }
