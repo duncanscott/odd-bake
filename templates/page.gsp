@@ -3,7 +3,7 @@
 <table id="container">
     <tr>
         <td id="topbanner" colspan="2">
-            <img src="template/topbanner_noborder.gif">
+            <img src="images/topbanner_noborder.gif">
         </td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@
             </table>
         </td>
         <td id="oddbanner">
-            <a href="index.html"><img src="template/odd_banner_noborder.gif"></a>
+            <a href="index.html"><img src="images/odd_banner_noborder.gif"></a>
         </td>
     </tr>
     <tr>
