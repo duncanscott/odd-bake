@@ -1,4 +1,4 @@
 .idea
-obake.iml
+*.iml
 /output
-.DS_Store
+*.DS_Store
