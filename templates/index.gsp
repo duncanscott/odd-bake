@@ -19,6 +19,9 @@
                     <td><img src="images/nav_head_events.gif" class="linkSection"></td>
                 </tr>
                 <tr>
+                    <td class="menuCell"><a href="announcement.html" class="menuLink"><span>Tsultrim Lodro</span></a></td>
+                </tr>
+                <tr>
                     <td class="menuCell"><a href="events.html" class="menuLink"><span>Calendar</span></a></td>
                 </tr>
                 <tr>
@@ -113,15 +116,18 @@
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="2" class="announcementCell">
+                    <td colspan="2" class="announcementCell top">
+                        Coming July 29, 2017:
                     </td>
                 </tr>
                 <tr>
                     <td colspan="2" class="announcementCell">
+                        Khenchen Tsultrim Lodro Rinpoche
                     </td>
                 </tr>
                 <tr>
                     <td colspan="2" class="announcementCell">
+                        <a href="announcement.html">Teachings on Generation Stage</a>
                     </td>
                 </tr>
                 </tbody>
