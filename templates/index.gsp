@@ -19,6 +19,9 @@
                     <td><img src="images/nav_head_events.gif" class="linkSection"></td>
                 </tr>
                 <tr>
+                    <td class="menuCell"><a href="announcement.html" class="menuLink"><span>Tsultrim Lodro</span></a></td>
+                </tr>
+                <tr>
                     <td class="menuCell"><a href="events.html" class="menuLink"><span>Calendar</span></a></td>
                 </tr>
                 <tr>
@@ -114,14 +117,25 @@
                 </tr>
                 <tr>
                     <td colspan="2" class="announcementCell">
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2" class="announcementCell">
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2" class="announcementCell">
+                    <a href="announcement.html">
+                    <table>
+                        <tr>
+                            <td>
+                                <span class="date">Coming November 4-5, 2017</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="lama">His Holiness Kathog Getse Rinpoche</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                The Dudjom Tersar Preliminary Practices: A Series of Teaching, Study and Practice
+                            </td>
+                        </tr>
+                    </table>
+                    </a>
                     </td>
                 </tr>
                 </tbody>

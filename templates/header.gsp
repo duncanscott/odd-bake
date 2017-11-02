@@ -9,6 +9,12 @@
     <meta name="keywords" content="">
     <meta name="generator" content="JBake">
 
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="pragma" content="no-cache" />
+
     <link href="css/odd.css" rel="stylesheet">
     <script src="javascript/general.js"></script>
   </head>

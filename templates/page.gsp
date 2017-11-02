@@ -19,6 +19,9 @@
                     <td><img src="images/nav_head_events.gif" class="linkSection"></td>
                 </tr>
                 <tr>
+                    <td class="menuCell"><a href="announcement.html" class="menuLink"><span>Announcement</span></a></td>
+                </tr>
+                <tr>
                     <td class="menuCell"><a href="events.html" class="menuLink"><span>Calendar</span></a></td>
                 </tr>
                 <tr>
