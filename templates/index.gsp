@@ -116,18 +116,26 @@
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="2" class="announcementCell top">
-                        Coming July 29, 2017:
-                    </td>
-                </tr>
-                <tr>
                     <td colspan="2" class="announcementCell">
-                        Khenchen Tsultrim Lodro Rinpoche
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2" class="announcementCell">
-                        <a href="announcement.html">Teachings on Generation Stage</a>
+                    <a href="announcement.html">
+                    <table>
+                        <tr>
+                            <td>
+                                <span class="date">Coming November 4-5, 2017</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="lama">His Holiness Kathog Getse Rinpoche</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                The Dudjom Tersar Preliminary Practices: A Series of Teaching, Study and Practice
+                            </td>
+                        </tr>
+                    </table>
+                    </a>
                     </td>
                 </tr>
                 </tbody>

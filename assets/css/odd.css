@@ -24,23 +24,34 @@ table#container td.contentpane {
 }
 table#contentlayout td.announcementCell {
 	padding: 0.2em 0.5em;
+	font-family: Georgia, Times, "Times New Roman", serif;
 }
-table#contentlayout td.top {
-	padding: 2.0em 0.5em 0.2em 0.5em;
+table#contentlayout td.announcementCell table {
+	margin: 2em 0.2em;
+	padding: 0;
 }
-td.announcementCell A:link {
+table#contentlayout td.announcementCell table tr td {
+	margin: 0;
+	padding: 0.2em;
+}
+table#contentlayout td.announcementCell A:link {
+    color:#96200b;
+	text-decoration:none;
+}
+table#contentlayout td.announcementCell A:visited {
     color:#96200b
 }
-
-td.announcementCell A:visited {
-    color:#96200b
-}
-
-td.announcementCell A:hover {
+table#contentlayout td.announcementCell A:hover {
     color: #3C3;
 }
-
-
+table#contentlayout td.announcementCell span.date {
+	font-weight: bold;
+	color: black;
+}
+table#contentlayout td.announcementCell span.lama {
+	font-weight: bold;
+	font-size: 1.2em;
+}
 div#fundraising tr.donation td {
 	padding: 0 1em 0 1em;
 	text-align:left;
