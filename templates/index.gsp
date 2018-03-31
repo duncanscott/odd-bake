@@ -19,7 +19,7 @@
                     <td><img src="images/nav_head_events.gif" class="linkSection"></td>
                 </tr>
                 <tr>
-                    <td class="menuCell"><a href="announcement.html" class="menuLink"><span>Announcement</span></a></td>
+                    <td class="menuCell"><a href="announcement.html" class="menuLink"><span>Tsultrim Allione</span></a></td>
                 </tr>
                 <tr>
                     <td class="menuCell"><a href="events.html" class="menuLink"><span>Calendar</span></a></td>
@@ -121,17 +121,18 @@
                     <table>
                         <tr>
                             <td>
-                                <span class="date">Coming November 4-5, 2017</span>
+                                <span class="date">Coming Sunday, July 22, 2018</span>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <span class="lama">His Holiness Kathog Getse Rinpoche</span>
+                                <span class="lama">Lama Tsultrim Allione</span>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                The Dudjom Tersar Preliminary Practices: A Series of Teaching, Study and Practice
+                                Wisdom Rising:
+                                A Journey into the Mandala of the Empowered Feminine
                             </td>
                         </tr>
                     </table>
