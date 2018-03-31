@@ -121,17 +121,20 @@
                     <table>
                         <tr>
                             <td>
-                                <span class="date">Coming November 4-5, 2017</span>
+                                <span class="date">Sunday, July 22, 2018
+                                10am-1pm
+                                3pm-5pm</span>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <span class="lama">His Holiness Kathog Getse Rinpoche</span>
+                                <span class="lama">Lama Tsultrim Allione</span>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                The Dudjom Tersar Preliminary Practices: A Series of Teaching, Study and Practice
+                                Wisdom Rising:
+                                A Journey into the Mandala of the Empowered Feminine
                             </td>
                         </tr>
                     </table>
