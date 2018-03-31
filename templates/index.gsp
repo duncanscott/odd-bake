@@ -121,7 +121,9 @@
                     <table>
                         <tr>
                             <td>
-                                <span class="date">Coming Sunday, July 22, 2018</span>
+                                <span style="color:#800000;font-size:12pt;font-family:&quot;Times New Roman&quot;,Times,serif">
+                                <em>Orgyen Dorje Den is pleased to present:</em>
+                                </span>
                             </td>
                         </tr>
                         <tr>
@@ -133,6 +135,11 @@
                             <td>
                                 Wisdom Rising:
                                 A Journey into the Mandala of the Empowered Feminine
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="date">Sunday, July 22, 2018</span>
                             </td>
                         </tr>
                     </table>
