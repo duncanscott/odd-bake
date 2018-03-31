@@ -121,9 +121,7 @@
                     <table>
                         <tr>
                             <td>
-                                <span class="date">Sunday, July 22, 2018
-                                10am-1pm
-                                3pm-5pm</span>
+                                <span class="date">Coming Sunday, July 22, 2018</span>
                             </td>
                         </tr>
                         <tr>
