@@ -1,5 +1,5 @@
 <%include "header.gsp"%>
-<body onload="preloadAlternateImages()">
+<body>
 <table id="container">
     <tr>
         <td id="topbanner" colspan="2">
@@ -120,10 +120,8 @@
                     <a href="announcement.html">
                     <table>
                         <tr>
-                            <td>
-                                <span style="color:#800000;font-size:12pt;font-family:&quot;Times New Roman&quot;,Times,serif">
+                            <td class="italic">
                                 <em>Orgyen Dorje Den is pleased to present:</em>
-                                </span>
                             </td>
                         </tr>
                         <tr>
@@ -140,6 +138,11 @@
                         <tr>
                             <td>
                                 <span class="date">Sunday, July 22, 2018</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="italic">
+                                <em>Click for details and to register.</em>
                             </td>
                         </tr>
                     </table>

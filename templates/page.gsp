@@ -1,5 +1,5 @@
 <%include "header.gsp"%>
-<body onload="preloadAlternateImages()">
+<body>
 <table id="container">
     <tr>
         <td id="topbanner" colspan="2">

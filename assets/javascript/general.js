@@ -21,30 +21,6 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
-function preloadAlternateImages() {
-	MM_preloadImages(
-		'../images/nav_homepage_on.gif',
-		'../images/nav_events_on.gif',
-		'../images/nav_membership_on.gif',
-		'../images/nav_about_on.gif',
-		'../images/nav_maps_on.gif',
-		'../images/nav_fundraising_on.gif',
-		'../images/nav_rentalprogram_on.gif',
-		'../images/nav_contact_on.gif',
-		'../images/nav_buddha_on.gif',
-		'../images/nav_padmasambhava_on.gif',
-		'../images/nav_dudjomrinpoche_on.gif',
-		'../images/nav_gyatrulrinpoche_on.gif',
-		'../images/nav_practice_on.gif',
-		'../images/nav_photogallery_on.gif',
-		'../images/nav_teachers_on.gif',
-		'../images/nav_staff_on.gif',
-		'../images/nav_history_on.gif',
-		'../images/lineage_buddha_on.gif',
-		'../images/lineage_padmasambhava_on.gif',
-		'../images/lineage_hhdudjomrinpoche_on.gif',
-		'../images/lineage_gyatrulrinpoche_on.gif')
-}
 
 function openEmailForm() {
 	var emailWindow = window.open("https://app.expressemailmarketing.com/Survey.aspx?SFID=31420","emailWindow","resizable,outerHeight=975,outerWidth=700,scrollbars,status,toolbar");

@@ -27,12 +27,18 @@ table#contentlayout td.announcementCell {
 	font-family: Georgia, Times, "Times New Roman", serif;
 }
 table#contentlayout td.announcementCell table {
-	margin: 2em 0.2em;
+	margin: 0.2em;
 	padding: 0;
 }
 table#contentlayout td.announcementCell table tr td {
 	margin: 0;
 	padding: 0.2em;
+}
+table#contentlayout td.italic {
+	color:#96200b;
+	text-decoration:none;
+	font-size:12pt;
+	font-family:"Times New Roman",Times,serif
 }
 table#contentlayout td.announcementCell A:link {
     color:#96200b;
