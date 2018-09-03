@@ -117,36 +117,6 @@
                 </tr>
                 <tr>
                     <td colspan="2" class="announcementCell">
-                    <a href="announcement.html">
-                    <table>
-                        <tr>
-                            <td class="italic">
-                                <em>Orgyen Dorje Den is pleased to present:</em>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <span class="lama">Lama Tsultrim Allione</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                Wisdom Rising:
-                                A Journey into the Mandala of the Empowered Feminine
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <span class="date">Sunday, July 22, 2018</span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="italic">
-                                <em>Click for details and to register.</em>
-                            </td>
-                        </tr>
-                    </table>
-                    </a>
                     </td>
                 </tr>
                 </tbody>
